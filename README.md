@@ -16,6 +16,10 @@ Regression coefficients for fitted logistic regression for governing local EDP a
 
 $P = \frac{e^{\beta_0 + \beta_1 \log(IM) + \beta_2 \eta + \beta_3 N_s}}{1 + e^{\beta_0 + \beta_1 \log(IM) + \beta_2 \eta + \beta_3 N_s}}$
 
+$N_s$ is the number of storey in the building;
+$IM$ is the earthquake intensity measure in terms of g;
+$\eta$ is the percentage mass loss in the structure
+
 # ---------------------------------------------------------
 Other Publication related to this work:
 
